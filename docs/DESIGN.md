@@ -1,6 +1,6 @@
 ## Distributed Simplex Downlink Protocol (DSDP)
 
-`dsdp` ("dee ess dee pee") is a platform agnostic downlink protocol designed to allow satellites with simple radio hardware to effectively downlink data via other nearby satellites and their associated groundstations
+`dsdp` is a platform agnostic downlink protocol designed to allow satellites with simple radio hardware to effectively downlink data via other nearby satellites and their associated groundstations
 
 ## Design goals
 
